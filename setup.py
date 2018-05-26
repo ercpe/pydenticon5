@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(
-    name='esgp',
+    name='pydenticon5',
     version='0.1',
     packages=['pydenticon5'],
     url='https://git.ercpe.de/ercpe/pydenticon5',
